@@ -1,7 +1,10 @@
 http://128.14.16.156/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
 http://128.14.16.156/ap/signin?key=a@b.c&openid.assoc_handle=jpflex&openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&openid.identity=http://specs.openid.net/auth/2.0/identifier_select&openid.mode=checkid_setup&openid.ns=http://specs.openid.net/auth/2.0&openid.pape.max_auth_age=0&openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&ref_=nav_em_hd_clc_signin
 http://150.95.220.233/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://174.139.126.104
 http://174.139.46.28/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpf%20lex&amp;openid.claimed_id=http://specs.ope%20nid.net/auth/2.0/identifier_select&amp;openid.identity=http%253%20A//specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net%20/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%20://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
+http://174.139.46.2/ap/signin
+http://174.139.46.5
 http://191.239.255.175/inicio.html
 http://20200817135109-dot-platinum-tract-269612.appspot.com/push
 http://3-billing-uk.com
@@ -20,6 +23,7 @@ http://allaninteriors.ca/wp-content/plugins/chase/firstlog.php?public/enroll/Ide
 http://allaninteriors.ca/wp-content/plugins/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=ODUxNTA4MA==ODUxNTA4MA==&amp;session=ODUxNTA4MA==ODUxNTA4MA==
 http://allaninteriors.ca/wp-content/plugins/chase/step1.php
 http://allaninteriors.ca/wp-content/plugins/chase/step2.php
+http://amazon.co-jp-com.art
 http://appfront.club/app/facebook.com/?key=Ca8jw5tAJ2thCJTAf3KIPatChLJMqmdUu9poUpnjgp1PCEmDQQnNLActm4B3ZWAvicQVxItAQXQHPx3HizyRtATQAslqCLCiwPDUC2ELJ0aZCLxLRMsMZCE3RW2mUXFLFOuijtELfyglPiSnYVcsMkcgOXBF3BjxVsRTlRd10hj6AgpP9S2Me10WWwmRQJl6PLR247oK
 http://appfront.club/app/facebook.com/?lang=en&amp;key=Ca8jw5tAJ2thCJTAf3KIPatChLJMqmdUu9poUpnjgp1PCEmDQQnNLActm4B3ZWAvicQVxItAQXQHPx3HizyRtATQAslqCLCiwPDUC2ELJ0aZCLxLRMsMZCE3RW2mUXFLFOuijtELfyglPiSnYVcsMkcgOXBF3BjxVsRTlRd10hj6AgpP9S2Me10WWwmRQJl6PLR247oK
 http://appfront.club/app/facebook.com/?lang=en&amp;key=RL4BRxjGImSeevFgE0HNj0lX9Df9vY8pwKswExaGcpU6jG0wSHZBxoPFzsXFAnCHMl52a7qbrHyMNGCfutKSDc5P0AYBQGzKtwy0HSrzq65guLdbPlVuiCgOHwEaBjEr2pBivfIGTnkzZTpDQSZ50uiesnuPsSEnrPeyZMBsEqfyBl8nprWOkRNCkoTcieAcqoPzjpCW
@@ -50,6 +54,7 @@ http://connxupdate.be/myebranch.iccu.com/confirm.php?cmd=login_submit&id=a34e642
 http://crm.evomizepc.com/uploads/index.html
 http://dbenitonline.ey.r.appspot.com
 http://dhl.acntts.com
+http://digitalshopyz.com/https/Amazon/com/SecureShopping/SSL
 http://divulgatas.000webhostapp.com
 http://dvrbrhbfs.com/amazon/ama/ACCESS744558886441BNG5F7558DERS85699SVB/F1a609050179e9c13789ba0637c450640/?dispatch=T5fQk8bCMxX5Of3HZUIgmeoa35okY7HBp6U9QvYBNRAoE49t8t
 http://eby-kleinanzeigen-de-anzeige-300019281821.000webhostapp.com
@@ -86,6 +91,8 @@ http://ingredientmedia.nl/blogs/Europe
 http://insta4likesmhjjjjjjjjjlyumh.000webhostapp.com
 http://insta4likesmhjjjjjjjjjlyumh.000webhostapp.com/login.html
 http://instaalfa.000webhostapp.com
+http://instagr0msecurlty.000webhostapp.com
+http://instagr0msecurlty.000webhostapp.com/login.html
 http://ionoskhal9578995410.blogspot.com
 http://itdkybq.fogmon.club/@1010@00210@
 http://jenniferdelatorre11.com/Susan%20L.%20Kazmierczak/mazon/3e76f
@@ -179,6 +186,7 @@ https://dailyshops.co.in/Yahoo
 https://data.travelzoo.com/e/index.ashx?tid=639&t=4&m=117236090&b=2879562&c=/hotelbanner/&clicktype=1&l=https://s6iwsmpxzc.firebaseapp.com?
 https://davitherbal.com/remember1thing/yahoo/login.php
 https://devikasdiet.com/frank/donald
+https://digitalshopyz.com/https/Amazon/com/SecureShopping/SSL
 https://docs.google.com/forms/d/e/1FAIpQLSfLk7uwIyNmiOrUrbpC14i1XEZ0D6yOrL4e4nxNJY_84mOUig/viewform
 https://dolperty.cloudns.cl/bb/?verify
 https://ebracing.es/tkii
@@ -281,6 +289,7 @@ https://pogeggplantr.com/dhll/DHLbillmack/39352772954bad59833e084ab4714508/dhl.p
 https://pogeggplantr.com/dhll/DHLbillmack/ba378671217b8a0e1fafa5a7c5a38a12/dhl.php?https://dhl-express/easy-to-use/tracking_and_documents/index.html?mailclient=/mail&amp;service=mail&amp;flowName=GlifWebSignIn&amp;flowEntry=AddSession
 https://pogeggplantr.com/dhll/DHLbillmack/ba378671217b8a0e1fafa5a7c5a38a12/dhl.php?https://dhl-express/easy-to-use/tracking_and_documents/index.html?mailclient=/mail&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession
 https://pousvrcblog.web.app
+https://premiumdata.center/uploads/confirmation/office365html/office
 https://proactive4you.com/t5cjd1/3d6e708cf67710f/login.php
 https://project34august2020.ey.r.appspot.com
 https://pt-amirtogogle.000webhostapp.com
@@ -324,6 +333,7 @@ https://ualocal787.org/test%20job1/chaseonline/login.php?cmd=login_submit&amp;id
 http://subscribers.qstbkt.cn/?dqutfh=mx6umb9gakqrqdsbk1xot8sefrpkcqvvcrav9nwka8h73we3xo0r7yglk2jsm31u
 https://unlimited.movies.tv.shows.login.account.ch.learningisfun.co.nz/0b3e840355ad02c0033cee971caa60bf/index.html
 https://usa-infonet.com/OO/Inv
+https://user5t6873948o9p.dt.r.appspot.com/login.microsoftonline.com/common/oauth2/authorize=vNews2&amp;email=microsoftonline.com/common/oauth2/authorize&amp;hashed_email=Y7XY6XCZJ3R4T4MN&amp;utm_campaign=phx_trigger_uk_pop_email4&amp;utm_source=photobox&amp;utm_medium=email&amp;uid=4978854645473&amp;brandName=Photobox
 https://user5t6873948o9p.dt.r.appspot.com/login.microsoftonline.com/common/oauth2/authorize=vNews2&email=microsoftonline.com/common/oauth2/authorize&hashed_email=Y7XY6XCZJ3R4T4MN&utm_campaign=phx_trigger_uk_pop_email4&utm_source=photobox&utm_medium=email&uid=4978854645473&brandName=Photobox
 https://usmanmilk.com/aunew/toda/index.php
 https://videobokepterbaruloh.000webhostapp.com
