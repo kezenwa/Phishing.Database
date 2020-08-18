@@ -1,5 +1,18 @@
+http://128.14.16.156/ap/signin?key=a@b.c&amp;openid.assoc_handle=jpflex&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;ref_=nav_em_hd_clc_signin
+http://150.95.220.233/ap/signin?openid.pape.max_auth_age=0&amp;openid.return_to=https://www.amazon.co.jp/?ref_=nav_em_hd_re_signin&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=jpflex&amp;openid.mode=checkid_setup&amp;key=a@b.c&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.ns=http://specs.openid.net/auth/2.0&amp;&amp;ref_=nav_em_hd_clc_signin
+http://4able.com.br/wp-admin/user/onedrive/login.php?cmd=login_submit&amp;id=2e6901613c09828580cf4e66f8c528012e6901613c09828580cf4e66f8c52801&amp;session=2e6901613c09828580cf4e66f8c528012e6901613c09828580cf4e66f8c52801
+http://4able.com.br/wp-admin/user/onedrive/login.php?cmd=login_submit&amp;id=504f8f3168b9d348aab400681f43076f504f8f3168b9d348aab400681f43076f&amp;session=504f8f3168b9d348aab400681f43076f504f8f3168b9d348aab400681f43076f
+http://4able.com.br/wp-admin/user/onedrive/login.php?cmd=login_submit&amp;id=e9d7b3e48011459ce3643295db609a79e9d7b3e48011459ce3643295db609a79&amp;session=e9d7b3e48011459ce3643295db609a79e9d7b3e48011459ce3643295db609a79
+http://4able.com.br/wp-admin/user/onedrive/login.php?cmd=login_submit&amp;id=f1af65c710c4a88f033e5196c3fc2a08f1af65c710c4a88f033e5196c3fc2a08&amp;session=f1af65c710c4a88f033e5196c3fc2a08f1af65c710c4a88f033e5196c3fc2a08
 http://acessoseguro.myddns.me/mobile/index.php?hash=17552047825f3af62cb169d0.43158172
+http://allaninteriors.ca/wp-content/plugins/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=MTA5MDc0NA==MTA5MDc0NA==&amp;session=MTA5MDc0NA==MTA5MDc0NA==
+http://allaninteriors.ca/wp-content/plugins/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=ODEzNzg5NDU5ODEzNzg5NDU5&amp;session=ODEzNzg5NDU5ODEzNzg5NDU5
+http://allaninteriors.ca/wp-content/plugins/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=ODUxNTA4MA==ODUxNTA4MA==&amp;session=ODUxNTA4MA==ODUxNTA4MA==
+http://appfront.club/app/facebook.com/?lang=en&amp;key=Ca8jw5tAJ2thCJTAf3KIPatChLJMqmdUu9poUpnjgp1PCEmDQQnNLActm4B3ZWAvicQVxItAQXQHPx3HizyRtATQAslqCLCiwPDUC2ELJ0aZCLxLRMsMZCE3RW2mUXFLFOuijtELfyglPiSnYVcsMkcgOXBF3BjxVsRTlRd10hj6AgpP9S2Me10WWwmRQJl6PLR247oK
+http://appfront.club/app/facebook.com/?lang=en&amp;key=RL4BRxjGImSeevFgE0HNj0lX9Df9vY8pwKswExaGcpU6jG0wSHZBxoPFzsXFAnCHMl52a7qbrHyMNGCfutKSDc5P0AYBQGzKtwy0HSrzq65guLdbPlVuiCgOHwEaBjEr2pBivfIGTnkzZTpDQSZ50uiesnuPsSEnrPeyZMBsEqfyBl8nprWOkRNCkoTcieAcqoPzjpCW
 http://bbuanetrcahspe.com/index.php
+http://belaircoltd.com/wp-content/plugins/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=MTk3MTY3MjI2MTk3MTY3MjI2&amp;session=MTk3MTY3MjI2MTk3MTY3MjI2
+http://belaircoltd.com/wp-content/plugins/chase/firstlog.php?public/enroll/IdentifyUser-aspx-LOB=RBGLogon=MTU1Njk5Mjk4MA==MTU1Njk5Mjk4MA==&amp;session=MTU1Njk5Mjk4MA==MTU1Njk5Mjk4MA==
 http://bozz.com.br/site/wp-inp/rsgt-multi/ultimo-aviso/login.php
 http://iasdjundiai.org.br/wp-content/themes/twentytwenty/space/dhlnew/dhl/tracking.php?l=_JeHFUq_VJOXK0QWHtoGYDw_Product-UserID&amp;userid=chccc@health.wa.gov.au
 http://nwrcdivayezdk6ztputrlw-on.drv.tw/yy/paypal.html
@@ -13,6 +26,8 @@ https://apple-mail-japan.fbcsw.com/.apple/?apple=3D
 https://carteriron.com/validlogin/chaseonline/login.php?cmd=login_submit&amp;id=a93bcf2d3596bdc4a9f9648ec63b0836a93bcf2d3596bdc4a9f9648ec63b0836&amp;session=a93bcf2d3596bdc4a9f9648ec63b0836a93bcf2d3596bdc4a9f9648ec63b0836
 https://carteriron.com/validlogin/chaseonline/login.php?cmd=login_submit&amp;id=d3e79f22fc29d14a8b392b16da6eb6a7d3e79f22fc29d14a8b392b16da6eb6a7&amp;session=d3e79f22fc29d14a8b392b16da6eb6a7d3e79f22fc29d14a8b392b16da6eb6a7
 https://docs.google.com/forms/d/e/1FAIpQLSfLk7uwIyNmiOrUrbpC14i1XEZ0D6yOrL4e4nxNJY_84mOUig/viewform
+https://firmabccr.co/inicio/bancos
+https://firmabccr.co/inicio/seleccionarbanco/4
 http://sharepntonline.oa.r.appspot.com/admin/b.php
 https://https-bbuanetcaslhpe.com
 https://https-bbuanetcaslhpe.com/KDPOSolicitarCredenciales_es.php
@@ -33,4 +48,5 @@ https://servicemailvocale.yolasite.com
 https://softwarestorage.club/?fname=Exodus
 https://syzphlap.gq/1000655841.html?type=68v3oWMXCKK_tLsDeLwd3VAxU9liAXf6jAuMsUDt2Bqkz9pszbcR5nARJnptToTOAO21psT53Ecvi
 https://ualocal787.org/test%20job1/chaseonline/login.php?cmd=login_submit&amp;id=e4e1ead96ed5cdbf5d99a8741fd498a5e4e1ead96ed5cdbf5d99a8741fd498a5&amp;session=e4e1ead96ed5cdbf5d99a8741fd498a5e4e1ead96ed5cdbf5d99a8741fd498a5
+http://tranviaturistico.com.mx/wp-admin/user/OnlineBanking/Account_View.html
 http://www.phprealweb.com/myaccount/signin
